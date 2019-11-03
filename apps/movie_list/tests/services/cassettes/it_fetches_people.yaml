@@ -1,0 +1,89 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://ghibliapi.herokuapp.com/people
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Sun, 03 Nov 2019 10:51:50 GMT
+      Etag:
+      - W/"396e-JpBeSBbcooXpHvL0AMBA/XObMWY"
+      Expires:
+      - '-1'
+      Pragma:
+      - no-cache
+      Server:
+      - Cowboy
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin, Accept-Encoding
+      Via:
+      - 1.1 vegur
+      X-Content-Type-Options:
+      - nosniff
+      X-Powered-By:
+      - Express
+    status:
+      code: 200
+      message: OK
+version: 1
